@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Plasma PhD]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Plasma PhD</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 06 Nov 2026 01:21:30 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 06 Nov 2026 01:21:28 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[test]]></title><description><![CDATA[This is a test]]></description><link>progress-reports/test.html</link><guid isPermaLink="false">4_Project/Physics PhD/Progress Reports/test.md</guid><pubDate>Fri, 06 Nov 2026 01:12:07 GMT</pubDate></item><item><title><![CDATA[Literature Review]]></title><description><![CDATA[
+Computational Plasma Science - Physics &amp; Selected Simulation Examples (Shigeo Kawata) A preliminary investigation of the pseudo-spectral method numerical solution of the Perkins instability equations in the homogeneous TEC case (Q. Zhou, J. Mathews, Q. Du, C. Miller) - 2004
+Coupling of the Perkins instability and the sporadic E layer instability derived from physical arguments (R. Cosgrove, R. Tsunoda, S. Fukao, M. Yamamoto) - 2004
+First three-dimensional simulation of the Perkins instability in the nighttime midlatitude ionosphere (T. Yokoyama, Y. Otsuka, T. Ogawa, M. Yamamoto, D. Hysell) - 2008
+Numerical simulation of Perkins instability in the midlatitude F-region ionosphere: The influence of background ionospheric multi-factors (Y. Liu, T. Lam, Y. Zhou, Y. Zhu, Z. Fan, Y. Wu, Y. Zhang, X. Wang) - 2025
+On the physical explanation of the Perkins instability (Q. Zhou, J. Mathews) - 2006
+Parametric instabilities and ionospheric modification (F. Perkins, C. Oberman, E. Valeo) - 1974
+Perkins instability revisited (A. Hamza) - 1999
+The evolution of nighttime mid-latitude mesoscale F-region structures: A case study utilizing numerical solution of the Perkins instability equations (Q. Zhou, J. Mathews, C. Miller, I. Seker) - 2006
+Three-dimensional simulation of the coupled Perkins and -layer instabilities in the nighttime midlatitude ionosphere (T. Yokoyama, D. Hysell, Y. Otsuka, M. Yamamoto) - 2009 Fundamentals of numerical modeling of the mid-latitude ionosphere (G. Jee) - 2023
+The evolution of nighttime mid-latitude mesoscale F-region structures: A case study utilizing numerical solution of the Perkins instability equations (Q. Zhou, J. Mathews, C. Miller, I. Seker) - 2006 eduPIC: An introductory particle based code for radio-frequency plasma simulation (Z. Donko, A. Derzsi, M. Vass, B. Horvath, S. Wilczek, B. Hartmann, P. Hartmann) - 2021
+Higher-order particle representation for particle-in-cell simulations (D. Brown, M. Bettencourt, S. Wright, S. Maheswaran, J. Jones, S. Jarvis) - 2021
+MHD-PIC connection model of auroral arc formation process in a magnetosphere-ionosphere coupling system (T. Sugiyama, K. Kusano, S. Hirose, A. Kageyama, K. Watanabe, T. Sato) Orb5: A global electromagnetic gyrokinetic code using the PIC approach in toroidal geometry (E. Lanti, et al) - 2020
+Particle-in-cell codes for plasma-based particle acceleration (A. Pukhov) - 2016
+Particle-in-cell simulation using asynchronous tasking (N. Guidotti, P. Ceyrat, J. Barreto, J. Monteiro, R. Rodrigues, R. Fonseca, X. Martonell, A. Pena) - 2021
+Step-by-step verification of particle-in-cell Monte Carlo collision codes (P. Parodi, F. Petronio) - 2025
+Structure and dynamics of a new class of thin current sheets (M. Sitnov, M. Swisdak, P. Guzdar, A. Runov) - 2006
+Unified fluid-model theory of ExB instabilities in low-ionized collisional plasmas with arbitrarily magnetized multi-species ions (Y. Dimant, M. Oppenheim, S. Evans, J. Martinez-Sykora) - 2023
+]]></description><link>literature-review.html</link><guid isPermaLink="false">4_Project/Physics PhD/Literature Review.md</guid><pubDate>Fri, 06 Nov 2026 00:46:12 GMT</pubDate></item><item><title><![CDATA[Physics PhD]]></title><description><![CDATA[I have started the process for my PhD in Physics. This project note will act as a MOC for the process.
+The literature review is tracked at <a data-href="4_Project/Physics PhD/Literature Review" href="literature-review.html" class="internal-link" target="_self" rel="noopener nofollow">4_Project/Physics PhD/Literature Review</a> fill out the grad update 📅 2023-11-16
+fill out grad update 📅 2024-11-13 ✅ 2024-12-02
+Fill out SGS annual progress report 📅 2026-12-01
+Fill out Program of study form 2026-11-01 22:05 - finding articles of numerical simulations of mid-latitude ionospheric systems
+2024-05-21 - Updates finished quantum class - A-
+finished E&amp;M class - B-
+verified with Abdulhaq that I am good to continue 2023-08-22 - Courses have been registered for, and the tuition waiver has been sent in.
+2023-08-16 - Catch up note. Dr. Hamza said that he will reach out to Jay and William to be on my supervisory committee.
+]]></description><link>physics-phd.html</link><guid isPermaLink="false">4_Project/Physics PhD/Physics PhD.md</guid><pubDate>Mon, 02 Nov 2026 15:20:23 GMT</pubDate></item><item><title><![CDATA[Links to interesting sites]]></title><description><![CDATA[
+<a rel="noopener nofollow" class="external-link is-unresolved" href="https://github.com/Save2541/1DEMPyPIC" target="_self">https://github.com/Save2541/1DEMPyPIC</a>
+<br><a rel="noopener nofollow" class="external-link is-unresolved" href="https://github.com/GangMei-CUGB/juSPH" target="_self">https://github.com/GangMei-CUGB/juSPH</a>
+<br><a rel="noopener nofollow" class="external-link is-unresolved" href="https://github.com/ElsevierSoftwareX/SOFTX-D-22-00107" target="_self">https://github.com/ElsevierSoftwareX/SOFTX-D-22-00107</a>
+<br><a rel="noopener nofollow" class="external-link is-unresolved" href="https://github.com/SebastianM-C/PICDataStructures.jl" target="_self">https://github.com/SebastianM-C/PICDataStructures.jl</a>
+]]></description><link>links-to-interesting-sites.html</link><guid isPermaLink="false">4_Project/Physics PhD/Links to interesting sites.md</guid><pubDate>Mon, 13 Jul 2026 18:00:18 GMT</pubDate></item></channel></rss>
